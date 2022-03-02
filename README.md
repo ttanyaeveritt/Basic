@@ -1,8 +1,8 @@
-# Basic Web Development
+# 💫Basic Web Development💫
 
 
 <!-- ABOUT THE PROJECT -->
-## 😭About The Project😭
+## About The Projec
 
 This repo goes through the common web development features that we come across with.
 
