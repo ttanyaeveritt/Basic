@@ -28,6 +28,8 @@ This list comes from https://github.com/andysterks/three-levels-of-projects
 ### 🖥️ Built With
 
 * Javascript
+* HTML
+* CSS
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
