@@ -4,11 +4,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This repo goes through the common web development features that we come across with.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-* [Angular](https://angular.io/)
+* Javascript
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
