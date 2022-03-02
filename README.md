@@ -2,7 +2,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 😭About The Project😭
 
 This repo goes through the common web development features that we come across with.
 
