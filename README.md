@@ -1,8 +1,8 @@
-# 💫Basic Web Development💫
+# 💫 Basic Web Development 💫
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Projec
+## 🥇 About The Project 
 
 This repo goes through the common web development features that we come across with.
 
@@ -25,18 +25,18 @@ This list comes from https://github.com/andysterks/three-levels-of-projects
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
+### 🖥️ Built With
 
 * Javascript
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### What I Learnt
+### 📚 What I Learnt
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### What I Would Do Better
+### 🔮 What I Would Do Better
 
 <p align="right">(<a href="#top">back to top</a>)</p>
